@@ -1,0 +1,11 @@
+C:\Users\d2ils\Desktop\s\WinFormsApp2.exe
+C:\Users\d2ils\Desktop\s\WinFormsApp2.dll
+C:\Users\d2ils\Desktop\s\WinFormsApp2.deps.json
+C:\Users\d2ils\Desktop\s\WinFormsApp2.runtimeconfig.json
+C:\Users\d2ils\Desktop\s\WinFormsApp2.pdb
+C:\Users\d2ils\Desktop\s\System.Data.SqlClient.dll
+C:\Users\d2ils\Desktop\s\runtimes\win-arm64\native\sni.dll
+C:\Users\d2ils\Desktop\s\runtimes\win-x64\native\sni.dll
+C:\Users\d2ils\Desktop\s\runtimes\win-x86\native\sni.dll
+C:\Users\d2ils\Desktop\s\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\d2ils\Desktop\s\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
